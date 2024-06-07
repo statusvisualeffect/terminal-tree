@@ -1,0 +1,33 @@
+
+Commands:
+---- Help command (terminal --help)
+---- Clear terminal (clear,clean)
+---- Shows up all files (ls)
+---- Shows your ip (ip --look)
+---- Ping website (webcall (link))
+---- Install python lib (pyinstall (lib-name))
+---- Uninstall python lib (pyuninstall (lib-name))
+---- Shows the the terminal version (terminal --ver)
+---- Change title (set-title-console-(your_title))
+---- Open folder that you in (open -/ folder)
+---- Full screen (full-screen-console)
+---- Turn off full screen (un-full-screen-console)
+---- Read file (read -/ (patch-to-file))
+---- Create file (touch -/ (file-name))
+---- Delete file (del -/ (file-name))
+---- Write in file (write /.(file-name) -/ (text))
+---- Install recommended lib python (pyinstall.rec -/ recommended)
+---- Set wallpaper (user32-change-wallpaper-(image-patch))
+---- Start app (run -/ (file_name))
+---- Start python script (pyrun -/ (file_name))
+---- Shows where are you (terminal --patch)
+---- Restart OS (user32-restart)
+---- Shutdown OS (user32-shutdown)
+---- neofetch (neofetch)
+
+About:
+---- VERSION (V6.5.2)
+---- Programming language (python)
+---- GITHUB (https://github.com/LouSkull)
+---- Developer discord (@ggrolton123)
+        
