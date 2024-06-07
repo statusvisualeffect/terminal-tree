@@ -1,5 +1,4 @@
-
-Commands:
+- Commands:
 ---- Help command (terminal --help)
 ---- Clear terminal (clear,clean)
 ---- Shows up all files (ls)
@@ -16,7 +15,7 @@ Commands:
 ---- Create file (touch -/ (file-name))
 ---- Delete file (del -/ (file-name))
 ---- Write in file (write /.(file-name) -/ (text))
----- Install recommended lib python (pyinstall.rec -/ recommended)
+---- Install recommended lib python (pyinstall.rec -/ recommended
 ---- Set wallpaper (user32-change-wallpaper-(image-patch))
 ---- Start app (run -/ (file_name))
 ---- Start python script (pyrun -/ (file_name))
@@ -24,6 +23,9 @@ Commands:
 ---- Restart OS (user32-restart)
 ---- Shutdown OS (user32-shutdown)
 ---- neofetch (neofetch)
+---- Open tree folder (open -/ tf)
+---- Show up your text (terminal --console.out:(your-text))
+---- About (terminal --about)
 
 About:
 ---- VERSION (V6.5.2)
