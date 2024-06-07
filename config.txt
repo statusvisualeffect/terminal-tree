@@ -1,1 +1,2 @@
 visible: 95
+terminal_size: 160,45
